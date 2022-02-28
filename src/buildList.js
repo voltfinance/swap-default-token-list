@@ -4,7 +4,7 @@ const fuse = require('./tokens/fuse.json');
 module.exports = async function buildList() {
   const parsed = version.split('.');
   return {
-    'name': 'FuseSwap Token List',
+    'name': 'Voltage Swap List',
     'timestamp': (new Date().toISOString()),
     'version': {
       'major': +parsed[ 0 ],
