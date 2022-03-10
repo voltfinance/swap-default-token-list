@@ -1,10 +1,10 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2022-02-28T15:02:14.206Z",
+  "timestamp": "2022-03-10T08:40:08.773Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
@@ -165,6 +165,14 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "VoltToken",
+      "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+      "symbol": "VOLT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/volt_icon.png"
     },
     {
       "name": "Wrapped BTC on Fuse",

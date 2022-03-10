@@ -183,5 +183,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
+  },
+  {
+    "name": "VoltToken",
+    "address": "0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4",
+    "symbol": "VOLT",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/volt_icon.png"
   }
 ]
