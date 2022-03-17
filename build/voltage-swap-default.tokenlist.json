@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2022-03-10T08:40:08.773Z",
+  "timestamp": "2022-03-17T15:37:51.682Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -14,6 +14,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "name": "agEUR",
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "symbol": "agEUR",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566"
+    },
     {
       "name": "Luna Terra",
       "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",

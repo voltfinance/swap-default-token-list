@@ -191,5 +191,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://fuselogo.s3.eu-central-1.amazonaws.com/volt_icon.png"
+  },
+  {
+    "name": "agEUR",
+    "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566"
   }
 ]
