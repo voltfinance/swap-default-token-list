@@ -199,5 +199,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR.png?1635283566"
+  },
+  {
+    "name": "Ampere Token",
+    "address": "0x2b09179D26FdDB27a24ee25328890791c7A984c2",
+    "symbol": "AMP",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://2470726899-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQN0enSCM3U8LwDp28GBl%2Fuploads%2Fvk5iqOYSfkENXdzcg5EU%2Ftoken%3Damp.png?alt=media&token=0798399e-3188-4e21-9679-d2eef74862dd"
   }
 ]
