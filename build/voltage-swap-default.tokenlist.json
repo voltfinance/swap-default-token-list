@@ -1,10 +1,10 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2022-09-06T16:28:32.459Z",
+  "timestamp": "2022-10-11T16:08:59.554Z",
   "version": {
     "major": 1,
     "minor": 4,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
@@ -61,6 +61,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
+    },
+    {
+      "name": "Bitazza",
+      "address": "0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8",
+      "symbol": "BTZ",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
     },
     {
       "name": "Binance USD on Fuse",
