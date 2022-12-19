@@ -231,5 +231,14 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xc2E299b47398963c618De5b05C6BdeCd4cc64022/logo.png"
+  },
+  {
+    "name": "VoltBar",
+    "address": "0x97a6e78c9208c21afaDa67e7E61d7ad27688eFd1",
+    "symbol": "xVOLT",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x97a6e78c9208c21afaDa67e7E61d7ad27688eFd1/logo.png"
   }
 ]
+
