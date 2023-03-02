@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2022-12-01T17:57:19.197Z",
+  "timestamp": "2023-02-27T19:04:35.567Z",
   "version": {
     "major": 1,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   },
   "tags": {},
@@ -80,11 +80,11 @@
     },
     {
       "name": "Coineus",
-      "address": "0xc2E299b47398963c618De5b05C6BdeCd4cc64022",
-      "symbol": "CNS",
+      "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+      "symbol": "CEUS",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xc2E299b47398963c618De5b05C6BdeCd4cc64022/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
     },
     {
       "name": "Dai Stablecoin on Fuse",

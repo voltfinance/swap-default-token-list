@@ -226,10 +226,10 @@
   },
   {
     "name": "Coineus",
-    "address": "0xc2E299b47398963c618De5b05C6BdeCd4cc64022",
-    "symbol": "CNS",
+    "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+    "symbol": "CEUS",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xc2E299b47398963c618De5b05C6BdeCd4cc64022/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
   }
 ]
