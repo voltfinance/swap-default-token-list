@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-02-27T19:04:35.567Z",
+  "timestamp": "2023-03-22T16:02:18.740Z",
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tags": {},
@@ -165,6 +165,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x0972F26e8943679b043de23df2fD3852177A7c48/logo.png"
+    },
+    {
+      "name": "Lightning",
+      "address": "0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F",
+      "symbol": "LIT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://coineus.app/assets/tokens/fuse/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
       "name": "MANTRA DAO on Fuse",
