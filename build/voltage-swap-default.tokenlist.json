@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-03-22T16:02:18.740Z",
+  "timestamp": "2023-03-22T16:14:39.468Z",
   "version": {
     "major": 1,
     "minor": 8,
@@ -172,7 +172,7 @@
       "symbol": "LIT",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://coineus.app/assets/tokens/fuse/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
       "name": "MANTRA DAO on Fuse",
