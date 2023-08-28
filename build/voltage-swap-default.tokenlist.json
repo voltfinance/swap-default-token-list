@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-04-19T13:36:56.089Z",
+  "timestamp": "2023-08-28T14:14:25.143Z",
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "tags": {},
@@ -199,6 +199,14 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
     },
     {
+      "name": "USD Coin V2",
+      "address": "0x28C3d1cD466Ba22f6cae51b1a4692a831696391A",
+      "symbol": "USDC V2",
+      "decimals": 6,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+    },
+    {
       "name": "Tether USD on Fuse",
       "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
       "symbol": "USDT",
@@ -238,6 +246,14 @@
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
       "isDeprecated": true
+    },
+    {
+      "name": "Wrapped Ether V2",
+      "address": "0x5622F6dC93e08a8b717B149677930C38d5d50682",
+      "symbol": "WETH V2",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
     },
     {
       "name": "Wrapped Fuse",
