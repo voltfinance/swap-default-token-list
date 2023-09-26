@@ -110,6 +110,7 @@
     "symbol": "fUSD (Deprecated)",
     "decimals": 18,
     "chainId": 122,
+    "isDeprecated":true,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
   },
   {
