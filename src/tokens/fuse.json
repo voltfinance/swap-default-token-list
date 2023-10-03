@@ -65,44 +65,12 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
   },
   {
-    "name": "Kyber Network Crystal on Fuse",
-    "address": "0x43B17749B246fd2a96DE25d9e4184E27E09765b0",
-    "symbol": "KNC",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x43B17749B246fd2a96DE25d9e4184E27E09765b0/logo.png"
-  },
-  {
     "name": "Wrapped Fuse",
     "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
     "symbol": "WFUSE",
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
-  },
-  {
-    "name": "MANTRA DAO on Fuse",
-    "address": "0x7F59aE3a787C0d1D640F99883d0e48c22188C54f",
-    "symbol": "OM",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x7F59aE3a787C0d1D640F99883d0e48c22188C54f/logo.png"
-  },
-  {
-    "name": "ChainLink Token on Fuse",
-    "address": "0x0972F26e8943679b043de23df2fD3852177A7c48",
-    "symbol": "LINK",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x0972F26e8943679b043de23df2fD3852177A7c48/logo.png"
-  },
-  {
-    "name": "Graph Token on Fuse",
-    "address": "0x025a4c577198D116Ea499193E6D735FDb2e6E841",
-    "symbol": "GRT",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x025a4c577198D116Ea499193E6D735FDb2e6E841/logo.png"
   },
   {
     "name": "Fuse Dollar",
@@ -129,76 +97,12 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
   },
   {
-    "name": "DEXTools on Fuse",
-    "address": "0x2f60a843302F1Be3FA87429CA9d684f9091b003c",
-    "symbol": "DEXT",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2f60a843302F1Be3FA87429CA9d684f9091b003c/logo.png"
-  },
-  {
     "name": "Binance USD on Fuse",
     "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6a5F6A8121592BeCd6747a38d67451B310F7f156/logo.png"
-  },
-  {
-    "name": "SushiToken on Fuse",
-    "address": "0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78/logo.png"
-  },
-  {
-    "name": "Elk",
-    "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-    "symbol": "ELK",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png"
-  },
-  {
-    "name": "oneFUSE on Fuse",
-    "address": "0x8A5eE71Cd4Db6b7ffdCE37313006e48FaD6ADdB0",
-    "symbol": "oneFUSE",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x8A5eE71Cd4Db6b7ffdCE37313006e48FaD6ADdB0/logo.png"
-  },
-  {
-    "name": "beefy.finance",
-    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-    "symbol": "BIFI",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
-  },
-  {
-    "name": "Luna Terra",
-    "address": "0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9",
-    "symbol": "atLUNA",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x588e24DEd8f850b14BB2e62E9c50A7Cd5Ee13Da9/logo.png"
-  },
-  {
-    "name": "UST Terra",
-    "address": "0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f",
-    "symbol": "atUST",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x0D58a44be3dCA0aB449965dcc2c46932547Fea2f/logo.png"
-  },
-  {
-    "name": "Dogelon on Fuse",
-    "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
-    "symbol": "ELON",
-    "decimals": 18,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
   },
   {
     "name": "VoltToken",
