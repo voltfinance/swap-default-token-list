@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-10-03T08:55:03.819Z",
+  "timestamp": "2023-10-14T15:55:19.572Z",
   "version": {
     "major": 3,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "tags": {},
@@ -93,6 +93,14 @@
       "decimals": 2,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
+    },
+    {
+      "name": "Qiji",
+      "address": "0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b",
+      "symbol": "QIJI",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
