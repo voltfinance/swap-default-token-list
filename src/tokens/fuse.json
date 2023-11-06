@@ -159,5 +159,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b/logo.png"
+  },
+  {
+    "name": "Tether USD V2",
+    "address": "0x68c9736781E9316ebf5c3d49FE0C1f45D2D104Cd",
+    "symbol": "USDT V2",
+    "decimals": 6,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
   }
 ]
