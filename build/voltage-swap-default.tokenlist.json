@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-11-14T12:17:55.229Z",
+  "timestamp": "2023-12-07T17:52:16.060Z",
   "version": {
     "major": 3,
-    "minor": 11,
+    "minor": 12,
     "patch": 0
   },
   "tags": {},
@@ -101,6 +101,14 @@
       "decimals": 2,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
+    },
+    {
+      "name": "Lightning",
+      "address": "0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F",
+      "symbol": "LIT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
       "name": "Qiji",
