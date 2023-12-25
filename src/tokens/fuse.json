@@ -10,7 +10,7 @@
   {
     "name": "Ladybot",
     "address": "0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A",
-    "symbol": "$Lady",
+    "symbol": "$LADY",
     "decimals": 9,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
