@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
   },
   {
+    "name": "Ladybot",
+    "address": "0xde4b9879b56187d13b2c41da24c72ff100a5ac9a",
+    "symbol": "$Lady",
+    "decimals": 9,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xde4b9879b56187d13b2c41da24c72ff100a5ac9a/logo.png"
+  },
+  {
     "name": "GoodDollar",
     "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
     "symbol": "G$",
