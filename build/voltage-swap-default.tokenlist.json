@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-12-25T15:13:58.634Z",
+  "timestamp": "2024-01-23T18:02:02.949Z",
   "version": {
     "major": 3,
     "minor": 12,
@@ -101,6 +101,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
+    },
+    {
+      "name": "Fates Violent Kiss Sends Reapers Grimm",
+      "address": "0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61",
+      "symbol": "FVKSRG",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61/logo.png"
     },
     {
       "name": "GoodDollar",
