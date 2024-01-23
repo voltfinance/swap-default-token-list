@@ -89,9 +89,9 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
   },
   {
-    "name": "Fuse Dollar",
+    "name": "Fuse Dollar V2",
     "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
-    "symbol": "fUSD (Deprecated)",
+    "symbol": "fUSDV2 (Deprecated)",
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
