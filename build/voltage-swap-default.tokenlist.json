@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2023-12-07T17:52:16.060Z",
+  "timestamp": "2023-12-25T15:13:58.634Z",
   "version": {
     "major": 3,
     "minor": 12,
@@ -14,6 +14,14 @@
     "default"
   ],
   "tokens": [
+    {
+      "name": "Ladybot",
+      "address": "0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A",
+      "symbol": "$LADY",
+      "decimals": 9,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
+    },
     {
       "name": "agEUR",
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
