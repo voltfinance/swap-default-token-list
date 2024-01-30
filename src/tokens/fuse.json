@@ -89,9 +89,9 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
   },
   {
-    "name": "Fuse Dollar",
+    "name": "Fuse Dollar V2",
     "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
-    "symbol": "fUSD (Deprecated)",
+    "symbol": "fUSDV2 (Deprecated)",
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
@@ -183,5 +183,21 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
+  },
+  {
+    "name": "Lightning",
+    "address": "0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F",
+    "symbol": "LIT",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
+  },
+  {
+    "name": "Fates Violent Kiss Sends Reapers Grimm",
+    "address": "0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61",
+    "symbol": "FVKSRG",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61/logo.png"
   }
 ]
