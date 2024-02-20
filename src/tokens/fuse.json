@@ -199,5 +199,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61/logo.png"
+  },
+  {
+    "name": "USDM Stablecoin",
+    "address": "0x4447863cddABbF2c3dAC826f042e03c91927A196",
+    "symbol": "USDM",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4447863cddABbF2c3dAC826f042e03c91927A196/logo.png"
   }
 ]

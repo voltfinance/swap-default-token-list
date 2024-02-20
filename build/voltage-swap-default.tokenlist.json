@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-01-23T18:19:12.534Z",
+  "timestamp": "2024-02-20T14:09:37.131Z",
   "version": {
     "major": 3,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "tags": {},
@@ -149,6 +149,14 @@
       "decimals": 6,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+    },
+    {
+      "name": "USDM Stablecoin",
+      "address": "0x4447863cddABbF2c3dAC826f042e03c91927A196",
+      "symbol": "USDM",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4447863cddABbF2c3dAC826f042e03c91927A196/logo.png"
     },
     {
       "name": "Tether USD on Fuse",
