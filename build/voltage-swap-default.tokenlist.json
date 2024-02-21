@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-02-20T14:09:37.131Z",
+  "timestamp": "2024-02-21T11:53:11.346Z",
   "version": {
     "major": 3,
-    "minor": 13,
+    "minor": 14,
     "patch": 0
   },
   "tags": {},
@@ -125,6 +125,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
+    },
+    {
+      "name": "Meridian MST",
+      "address": "0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe",
+      "symbol": "MST",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
     },
     {
       "name": "Qiji",

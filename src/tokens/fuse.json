@@ -207,5 +207,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4447863cddABbF2c3dAC826f042e03c91927A196/logo.png"
+  },
+  {
+    "name": "Meridian MST",
+    "address": "0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe",
+    "symbol": "MST",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
   }
 ]
