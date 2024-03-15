@@ -215,5 +215,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
+  },
+  {
+    "name": "Dogelon on Fuse",
+    "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+    "symbol": "ELON",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
   }
 ]

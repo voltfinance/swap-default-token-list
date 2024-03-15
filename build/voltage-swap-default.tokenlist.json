@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-02-21T11:53:11.346Z",
+  "timestamp": "2024-03-15T09:38:50.652Z",
   "version": {
     "major": 3,
-    "minor": 14,
+    "minor": 15,
     "patch": 0
   },
   "tags": {},
@@ -77,6 +77,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
+    },
+    {
+      "name": "Dogelon on Fuse",
+      "address": "0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9",
+      "symbol": "ELON",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
     },
     {
       "name": "Fuse Dollar",
