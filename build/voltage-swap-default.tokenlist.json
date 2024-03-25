@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-03-15T09:38:50.652Z",
+  "timestamp": "2024-03-25T11:15:44.625Z",
   "version": {
     "major": 3,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "tags": {},
@@ -37,6 +37,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png"
+    },
+    {
+      "name": "USDC Solana",
+      "address": "0x830cFB18ae30B7D989f6950638Be15816416ff5c",
+      "symbol": "asUSDC",
+      "decimals": 6,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
     },
     {
       "name": "BNB on Fuse",

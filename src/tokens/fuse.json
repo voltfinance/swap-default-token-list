@@ -223,5 +223,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
+  },
+  {
+    "name": "USDC Solana",
+    "address": "0x830cFB18ae30B7D989f6950638Be15816416ff5c",
+    "symbol": "asUSDC",
+    "decimals": 6,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
   }
 ]
