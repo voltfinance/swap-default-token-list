@@ -231,5 +231,13 @@
     "decimals": 6,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+  },
+   {
+    "name": "FOO",
+    "address": "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9",
+    "symbol": "$FOO",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png"
   }
 ]
