@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-03-28T13:26:09.418Z",
+  "timestamp": "2024-05-07T08:53:27.200Z",
   "version": {
     "major": 3,
-    "minor": 17,
+    "minor": 18,
     "patch": 0
   },
   "tags": {},
@@ -165,6 +165,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b/logo.png"
+    },
+    {
+      "name": "Liquid staked Fuse",
+      "address": "0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871",
+      "symbol": "sFUSE",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871/logo.png"
     },
     {
       "name": "USD Coin on Fuse",

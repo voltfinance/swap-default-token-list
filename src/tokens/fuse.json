@@ -239,5 +239,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png"
+  },
+  {
+    "name": "Liquid staked Fuse",
+    "address": "0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871",
+    "symbol": "sFUSE",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871/logo.png"
   }
 ]
