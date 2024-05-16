@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-05-07T08:53:27.200Z",
+  "timestamp": "2024-05-16T09:33:59.966Z",
   "version": {
     "major": 3,
-    "minor": 18,
+    "minor": 19,
     "patch": 0
   },
   "tags": {},
@@ -101,6 +101,22 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
+    },
+    {
+      "name": "Freedom",
+      "address": "0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C",
+      "symbol": "FDM",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C/logo.png"
+    },
+    {
+      "name": "Freedom Shards",
+      "address": "0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA",
+      "symbol": "FDS",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA/logo.png"
     },
     {
       "name": "Fuse Dollar",

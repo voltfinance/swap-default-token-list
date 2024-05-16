@@ -247,5 +247,21 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871/logo.png"
+  },
+  {
+    "name": "Freedom Shards",
+    "address": "0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA",
+    "symbol": "FDS",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA/logo.png"
+  },
+  {
+    "name": "Freedom",
+    "address": "0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C",
+    "symbol": "FDM",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C/logo.png"
   }
 ]
