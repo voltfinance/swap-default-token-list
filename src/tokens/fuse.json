@@ -263,5 +263,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C/logo.png"
+  },
+  {
+    "name": "BNB V2",
+    "address": "0x117C0419352DDB6FE575A67FAa70315BDc4a93f3",
+    "symbol": "BNB V2",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
   }
 ]

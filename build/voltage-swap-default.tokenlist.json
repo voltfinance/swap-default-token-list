@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-05-16T09:33:59.966Z",
+  "timestamp": "2024-05-28T11:07:53.965Z",
   "version": {
     "major": 3,
-    "minor": 19,
+    "minor": 20,
     "patch": 0
   },
   "tags": {},
@@ -58,6 +58,14 @@
       "name": "BNB on Fuse",
       "address": "0x6acb34b1Df86E254b544189Ec32Cf737e2482058",
       "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
+    },
+    {
+      "name": "BNB V2",
+      "address": "0x117C0419352DDB6FE575A67FAa70315BDc4a93f3",
+      "symbol": "BNB V2",
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
