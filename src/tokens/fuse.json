@@ -271,5 +271,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
+  },
+  {
+    "name": "Matic Token",
+    "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
   }
 ]
