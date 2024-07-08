@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-06-03T13:37:43.881Z",
+  "timestamp": "2024-07-08T06:57:14.403Z",
   "version": {
     "major": 3,
-    "minor": 21,
+    "minor": 22,
     "patch": 0
   },
   "tags": {},
@@ -31,6 +31,14 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
     },
     {
+      "name": "ETH (Allbridge)",
+      "address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
+      "symbol": "aeETH",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
+    },
+    {
       "name": "agEUR",
       "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
       "symbol": "agEUR",
@@ -45,6 +53,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png"
+    },
+    {
+      "name": "Sol (Allbridge)",
+      "address": "0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B",
+      "symbol": "asSOL",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
     },
     {
       "name": "USDC Solana",
