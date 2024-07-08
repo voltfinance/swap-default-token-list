@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-07-08T06:57:14.403Z",
+  "timestamp": "2024-07-08T11:14:01.821Z",
   "version": {
     "major": 3,
-    "minor": 22,
+    "minor": 23,
     "patch": 0
   },
   "tags": {},
@@ -31,7 +31,7 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
     },
     {
-      "name": "ETH (Allbridge)",
+      "name": "ETH Allbridge",
       "address": "0xCC9d144a8a8A1e71D5EC66A13F301b9E0137e71C",
       "symbol": "aeETH",
       "decimals": 18,
@@ -55,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png"
     },
     {
-      "name": "Sol (Allbridge)",
+      "name": "Sol Allbridge",
       "address": "0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B",
       "symbol": "asSOL",
       "decimals": 18,
