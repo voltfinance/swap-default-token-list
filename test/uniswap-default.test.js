@@ -15,8 +15,6 @@ describe('buildList', () => {
   })
 
   it('validates', () => {
-    validator(defaultTokenList)
-    console.log(validator.errors)
     expect(validator(defaultTokenList)).to.equal(true);
   });
 
