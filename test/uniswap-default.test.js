@@ -5,7 +5,7 @@ const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
 const buildList = require('../src/buildList');
 
-const ajv = new Ajv({ allErrors: true, format: 'full' });
+const ajv = new Ajv({ allErrors: true, format: 'full', verbose: true, messages: true });
 const validator = ajv.compile(schema);
 
 describe('buildList', () => {
