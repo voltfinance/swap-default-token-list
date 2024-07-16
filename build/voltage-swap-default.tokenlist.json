@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-07-08T11:14:01.821Z",
+  "timestamp": "2024-07-16T07:26:27.995Z",
   "version": {
     "major": 3,
-    "minor": 23,
+    "minor": 24,
     "patch": 0
   },
   "tags": {},
@@ -58,7 +58,7 @@
       "name": "Sol Allbridge",
       "address": "0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B",
       "symbol": "asSOL",
-      "decimals": 18,
+      "decimals": 9,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
     },
