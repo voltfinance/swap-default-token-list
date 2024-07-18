@@ -5,7 +5,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
   },
   {
     "name": "Ladybot",
@@ -13,7 +13,7 @@
     "symbol": "$LADY",
     "decimals": 9,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
   },
   {
     "name": "GoodDollar",
@@ -21,7 +21,7 @@
     "symbol": "G$",
     "decimals": 2,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
   },
   {
     "name": "Bitazza",
@@ -29,7 +29,7 @@
     "symbol": "BTZ",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x7641d492c17795Fb4cbaa8DF99116c9c482C81a8/logo.png"
   },
   {
     "name": "USD Coin on Fuse",
@@ -37,7 +37,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
   },
   {
     "name": "Wrapped BTC on Fuse",
@@ -45,7 +45,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png"
   },
   {
     "name": "Wrapped Ether on Fuse",
@@ -53,7 +53,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
   },
   {
     "name": "Wrapped Ether on Fuse",
@@ -61,7 +61,7 @@
     "symbol": "WETH (Deprecated)",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
     "isDeprecated": true
   },
   {
@@ -70,7 +70,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
   },
   {
     "name": "Wrapped Fuse",
@@ -78,7 +78,7 @@
     "symbol": "WFUSE",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
   },
   {
     "name": "Fuse Dollar",
@@ -86,7 +86,7 @@
     "symbol": "fUSD (Deprecated)",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
   },
   {
     "name": "Fuse Dollar V2",
@@ -94,7 +94,7 @@
     "symbol": "fUSDV2 (Deprecated)",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
   },
   {
     "name": "BNB on Fuse",
@@ -102,7 +102,7 @@
     "symbol": "BNB",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
   },
   {
     "name": "Binance USD on Fuse",
@@ -110,7 +110,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6a5F6A8121592BeCd6747a38d67451B310F7f156/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x6a5F6A8121592BeCd6747a38d67451B310F7f156/logo.png"
   },
   {
     "name": "VoltToken",
@@ -118,7 +118,7 @@
     "symbol": "VOLT",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x34Ef2Cc892a88415e9f02b91BfA9c91fC0bE6bD4/logo.png"
   },
   {
     "name": "agEUR",
@@ -126,7 +126,7 @@
     "symbol": "agEUR",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/logo.png"
   },
   {
     "name": "Ampere Token",
@@ -134,7 +134,7 @@
     "symbol": "AMP",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2b09179D26FdDB27a24ee25328890791c7A984c2/logo.png"
   },
   {
     "name": "Coineus",
@@ -142,7 +142,7 @@
     "symbol": "CEUS",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
   },
   {
     "name": "USD Coin V2",
@@ -150,7 +150,7 @@
     "symbol": "USDC V2",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
   },
   {
     "name": "Wrapped Ether V2",
@@ -158,7 +158,7 @@
     "symbol": "WETH V2",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
   },
   {
     "name": "Qiji",
@@ -166,7 +166,7 @@
     "symbol": "QIJI",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x4b9aE621E54BF1ecFe39366BCA0018d97A2D510b/logo.png"
   },
   {
     "name": "Tether USD V2",
@@ -174,7 +174,7 @@
     "symbol": "USDT V2",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
   },
   {
     "name": "Fuse Dollar V3",
@@ -182,7 +182,7 @@
     "symbol": "fUSDV3",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
   },
   {
     "name": "Lightning",
@@ -190,7 +190,7 @@
     "symbol": "LIT",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
   },
   {
     "name": "Fates Violent Kiss Sends Reapers Grimm",
@@ -198,7 +198,7 @@
     "symbol": "FVKSRG",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa28a758619ba32B11F8D55eB6C0E1C7E5929bF61/logo.png"
   },
   {
     "name": "USDM Stablecoin",
@@ -206,7 +206,7 @@
     "symbol": "USDM",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x4447863cddABbF2c3dAC826f042e03c91927A196/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x4447863cddABbF2c3dAC826f042e03c91927A196/logo.png"
   },
   {
     "name": "Meridian MST",
@@ -214,7 +214,7 @@
     "symbol": "MST",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
   },
   {
     "name": "Dogelon on Fuse",
@@ -222,7 +222,7 @@
     "symbol": "ELON",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
   },
   {
     "name": "USDC Solana",
@@ -230,7 +230,7 @@
     "symbol": "asUSDC",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
   },
   {
     "name": "FOO",
@@ -238,7 +238,7 @@
     "symbol": "$FOO",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9/logo.png"
   },
   {
     "name": "Liquid staked Fuse",
@@ -246,7 +246,7 @@
     "symbol": "sFUSE",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xb1DD0B683d9A56525cC096fbF5eec6E60FE79871/logo.png"
   },
   {
     "name": "Freedom Shards",
@@ -254,7 +254,7 @@
     "symbol": "FDS",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xC9f1ADDcd913ebC260D48F941db4Be9cDa1d2cfA/logo.png"
   },
   {
     "name": "Freedom",
@@ -262,7 +262,7 @@
     "symbol": "FDM",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C/logo.png"
   },
   {
     "name": "BNB V2",
@@ -270,7 +270,7 @@
     "symbol": "BNB V2",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
   },
   {
     "name": "Matic Token",
@@ -278,7 +278,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
   },
   {
     "name": "ETH Allbridge",
@@ -286,7 +286,7 @@
     "symbol": "aeETH",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
   },
   {
     "name": "Sol Allbridge",
@@ -294,7 +294,7 @@
     "symbol": "asSOL",
     "decimals": 9,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
   },
   {
     "name": "Maker",
@@ -302,7 +302,7 @@
     "symbol": "MKR",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd1b300AEc14c5DDB934C5BBcBA4E9f7463b9e3CA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xd1b300AEc14c5DDB934C5BBcBA4E9f7463b9e3CA/logo.png"
   },
   {
     "name": "Lido Staked Ether",
@@ -310,7 +310,7 @@
     "symbol": "stETH",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x3c5DD992D72D082B44c7505015E09fdb1e975eC2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x3c5DD992D72D082B44c7505015E09fdb1e975eC2/logo.png"
   },
   {
     "name": "Dai Stablecoin V2",
@@ -318,6 +318,6 @@
     "symbol": "DAI V2",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png"
   }
 ]
