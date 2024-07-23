@@ -1,6 +1,7 @@
 const fs = require('fs/promises')
 const Mustache = require('mustache')
 const { execSync } = require('child_process')
+const fetch = require('node-fetch')
 
 async function getNewTokenList() {
   const newTokenList = await fs.readFile(
