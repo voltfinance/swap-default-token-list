@@ -1,5 +1,5 @@
 name: Analyze
-on: [push, pull_request]
+on: [push]
 jobs:
   analyze:
     runs-on: ubuntu-latest
@@ -9,7 +9,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 14
       - run: npm install
       - id: analyze
         run: npm run analyze
