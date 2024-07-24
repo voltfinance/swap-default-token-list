@@ -98,9 +98,9 @@ async function analyze() {
 
       {{#errors.length}}
       Token check error:
-        {{#errors}}
-          {{.}}
-        {{/errors}}
+      {{#errors}}
+      {{.}}
+      {{/errors}}
       {{/errors.length}}
 
       ![{{name}} logo]({{{logoURI}}})
