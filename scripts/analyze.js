@@ -108,7 +108,7 @@ async function analyze() {
     variables,
   )
 
-  execSync(`echo "summary=${summary}" >> "$GITHUB_OUTPUT"`)
+  execSync(`echo "${summary}" >> "summary.txt"`)
 }
 
 analyze()

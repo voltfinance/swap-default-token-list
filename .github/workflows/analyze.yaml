@@ -15,5 +15,4 @@ jobs:
         run: npm run analyze
       - uses: mshick/add-pr-comment@v2
         with:
-          message: |
-            {{analyze.summary}}
+          message-path: ./summary.txt
