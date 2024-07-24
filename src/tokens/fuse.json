@@ -295,5 +295,29 @@
     "decimals": 9,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x5Cb5249d420639619fFd637C79f0AA5C0a9FcD4B/logo.png"
+  },
+  {
+    "name": "Maker",
+    "address": "0xd1b300AEc14c5DDB934C5BBcBA4E9f7463b9e3CA",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd1b300AEc14c5DDB934C5BBcBA4E9f7463b9e3CA/logo.png"
+  },
+  {
+    "name": "Lido Staked Ether",
+    "address": "0x3c5DD992D72D082B44c7505015E09fdb1e975eC2",
+    "symbol": "stETH",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x3c5DD992D72D082B44c7505015E09fdb1e975eC2/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin V2",
+    "address": "0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf",
+    "symbol": "DAI V2",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png"
   }
 ]
