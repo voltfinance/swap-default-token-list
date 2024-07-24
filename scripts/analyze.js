@@ -95,14 +95,12 @@ async function analyze() {
       **PR Summary**
       Token in PR: ERC20 {{address}}
       Name: **{{name}}**, Symbol: **{{symbol}}**, Decimals: **{{decimals}}**
-
       {{#errors.length}}
       Token check error:
       {{#errors}}
       {{.}}
       {{/errors}}
       {{/errors.length}}
-
       ![{{name}} logo]({{{logoURI}}})
     `,
     variables,
