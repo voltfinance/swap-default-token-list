@@ -108,7 +108,7 @@ async function analyze() {
     variables,
   )
 
-  execSync(`echo "${summary}" >> "summary.txt"`)
+  await fs.writeFile('summary.txt', summary.trim())
 }
 
 analyze()
