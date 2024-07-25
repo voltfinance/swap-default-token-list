@@ -1,38 +1,14 @@
 const fs = require('fs/promises')
 const Mustache = require('mustache')
-const { execSync } = require('child_process')
 const fetch = require('node-fetch')
 
-async function getNewTokenList() {
-  const newTokenList = await fs.readFile(
-    './build/voltage-swap-default.tokenlist.json',
-    'utf8',
-  )
+const isLiquidityValid = require('./helpers/isLiquidityValid')
+const isNameValid = require('./helpers/isNameValid')
+const isSymbolValid = require('./helpers/isSymbolValid')
+const getNewTokenList = require('./helpers/getNewTokenList')
+const getCurrentTokenList = require('./helpers/getCurrentTokenList')
 
-  return JSON.parse(newTokenList)
-}
-
-let fetchedTokenList
-async function getCurrentTokenList() {
-  if (fetchedTokenList) return fetchedTokenList
-
-  const response = await fetch(
-    'https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/build/voltage-swap-default.tokenlist.json',
-  )
-
-  if (!response.ok) throw new Error(`Response status: ${response.status}`)
-
-  const json = await response.json()
-
-  fetchedTokenList = json
-
-  return fetchedTokenList
-}
-
-async function getNewToken() {
-  const newTokenList = await getNewTokenList()
-  const currentTokenList = await getCurrentTokenList()
-
+async function getNewToken(newTokenList, currentTokenList) {
   const currentIds = new Set(
     currentTokenList.tokens.map((token) => token.address),
   )
@@ -44,44 +20,26 @@ async function getNewToken() {
   return newTokens[0]
 }
 
-async function isNameValid(newToken) {
-  const currentTokenList = await getCurrentTokenList()
-
-  const foundDuplicate = currentTokenList.tokens.find(
-    (token) => token.name === newToken.name,
-  )
-
-  if (foundDuplicate) return 'Name is duplicate'
-
-  return null
-}
-
-async function isSymbolValid(newToken) {
-  const currentTokenList = await getCurrentTokenList()
-
-  const foundDuplicate = currentTokenList.tokens.find(
-    (token) => token.symbol === newToken.symbol,
-  )
-
-  if (foundDuplicate) return 'Symbol is duplicate'
-
-  return null
-}
-
 async function analyze() {
   const errors = []
 
-  const newToken = await getNewToken()
+  const newTokenList = await getNewTokenList()
+  const currentTokenList = await getCurrentTokenList()
+
+  const newToken = await getNewToken(newTokenList, currentTokenList)
 
   if (!newToken) return
 
-  const nameError = await isNameValid(newToken)
+  const nameError = await isNameValid(newToken, currentTokenList)
   if (nameError) errors.push(nameError)
 
-  const symbolError = await isSymbolValid(newToken)
+  const symbolError = await isSymbolValid(newToken, currentTokenList)
   if (symbolError) errors.push(symbolError)
 
-  const variables = {
+  const liquidityError = await isLiquidityValid(newToken)
+  if (liquidityError) errors.push(liquidityError)
+
+  const view = {
     address: newToken.address,
     name: newToken.name,
     symbol: newToken.symbol,
@@ -98,12 +56,12 @@ async function analyze() {
       {{#errors.length}}
       Token check error:
       {{#errors}}
-      {{.}}
+      ❌{{.}}
       {{/errors}}
       {{/errors.length}}
       ![{{name}} logo]({{{logoURI}}})
     `,
-    variables,
+    view,
   )
 
   await fs.writeFile('summary.txt', summary.trim())
