@@ -7,18 +7,7 @@ const isNameValid = require('./helpers/isNameValid')
 const isSymbolValid = require('./helpers/isSymbolValid')
 const getNewTokenList = require('./helpers/getNewTokenList')
 const getCurrentTokenList = require('./helpers/getCurrentTokenList')
-
-async function getNewToken(newTokenList, currentTokenList) {
-  const currentIds = new Set(
-    currentTokenList.tokens.map((token) => token.address),
-  )
-
-  const newTokens = newTokenList.tokens.filter(
-    (token) => !currentIds.has(token.address),
-  )
-
-  return newTokens[0]
-}
+const getNewToken = require('./helpers/getNewToken')
 
 async function analyze() {
   const errors = []
