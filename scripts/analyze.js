@@ -60,6 +60,7 @@ async function analyze() {
       {{/errors}}
       {{/errors.length}}
       ![{{name}} logo]({{{logoURI}}})
+      @mul53 @darkpaladi
     `,
     view,
   )
