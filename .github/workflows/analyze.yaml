@@ -12,7 +12,12 @@ jobs:
           node-version: 14
       - run: npm install
       - id: analyze
-        run: npm run analyze
+        name: Analyze PR
+        run: |
+          npm run analyze
+          [ -f summary.txt ] && echo "{SKIP}={false}" >> "$GITHUB_ENV" || echo "{SKIP}={true}" >> "$GITHUB_ENV"
       - uses: mshick/add-pr-comment@v2
+        if: ${{env.SKIP == true}}
+        name: Comment on PR
         with:
           message-path: ./summary.txt

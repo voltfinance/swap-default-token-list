@@ -1,6 +1,5 @@
 const fs = require('fs/promises')
 const Mustache = require('mustache')
-const fetch = require('node-fetch')
 
 const isLiquidityValid = require('./helpers/isLiquidityValid')
 const isNameValid = require('./helpers/isNameValid')
@@ -8,16 +7,20 @@ const isSymbolValid = require('./helpers/isSymbolValid')
 const getNewTokenList = require('./helpers/getNewTokenList')
 const getCurrentTokenList = require('./helpers/getCurrentTokenList')
 const getNewToken = require('./helpers/getNewToken')
+const getContributors = require('./helpers/getContributors')
 
 async function analyze() {
   const errors = []
 
+  const contributors = await getContributors()
   const newTokenList = await getNewTokenList()
   const currentTokenList = await getCurrentTokenList()
-
   const newToken = await getNewToken(newTokenList, currentTokenList)
 
-  if (!newToken) return
+  if (!newToken) {
+    
+    return
+  }
 
   const nameError = await isNameValid(newToken, currentTokenList)
   if (nameError) errors.push(nameError)
@@ -34,7 +37,8 @@ async function analyze() {
     symbol: newToken.symbol,
     decimals: newToken.decimals,
     logoURI: newToken.logoURI,
-    errors: errors,
+    contributors: contributors.map(c => `@${c}`).join(" "),
+    errors,
   }
 
   const summary = Mustache.render(
@@ -48,8 +52,12 @@ async function analyze() {
       ❌{{.}}
       {{/errors}}
       {{/errors.length}}
+      {{^errors.length}}
+      Token check ok:
+      ✅
+      {{/errors.length}}
       ![{{name}} logo]({{{logoURI}}})
-      @mul53 @darkpaladi
+      {{contributors}}
     `,
     view,
   )
