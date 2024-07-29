@@ -43,17 +43,19 @@ async function analyze() {
 
   const summary = Mustache.render(
     `
-      **PR Summary**
-      Token in PR: ERC20 {{address}}
-      Name: **{{name}}**, Symbol: **{{symbol}}**, Decimals: **{{decimals}}**
+      **PR Summary**:
+      * Token address: {{address}}
+      * Name: **{{name}}**
+      * Symbol: **{{symbol}}**
+      * Decimals: **{{decimals}}**
       {{#errors.length}}
-      Token check error:
+      *Token check error:
       {{#errors}}
-      ❌{{.}}
+      *❌{{.}}
       {{/errors}}
       {{/errors.length}}
       {{^errors.length}}
-      Token check ok:
+      *Token check ok:
       ✅
       {{/errors.length}}
       ![{{name}} logo]({{{logoURI}}})
