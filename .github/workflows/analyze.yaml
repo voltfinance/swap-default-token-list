@@ -1,0 +1,23 @@
+name: Analyze
+on: [pull_request]
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    name: Analyze Token
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - run: npm install
+      - id: analyze
+        name: Analyze PR
+        run: |
+          npm run analyze
+          [ -f summary.txt ] && echo "{SKIP}={false}" >> "$GITHUB_ENV" || echo "{SKIP}={true}" >> "$GITHUB_ENV"
+      - uses: mshick/add-pr-comment@v2
+        if: ${{env.SKIP == true}}
+        name: Comment on PR
+        with:
+          message-path: ./summary.txt
