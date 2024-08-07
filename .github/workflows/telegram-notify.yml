@@ -1,0 +1,28 @@
+name: Notify Telegram on JSON Update
+
+on:
+  push:
+    paths:
+      - './build/voltage-swap-default.tokenlist.json'
+
+jobs:
+  notify:
+    environment: TELEGRAM
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run notify script
+      run: npm run notify:telegram
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
