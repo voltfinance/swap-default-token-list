@@ -2,6 +2,9 @@ name: Notify Telegram on JSON Update
 
 on:
   push:
+    branches:
+      # - master
+      - feat/telegram-bot
     paths:
       - './build/voltage-swap-default.tokenlist.json'
 
@@ -26,3 +29,13 @@ jobs:
       env:
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+    - name: Commit changes
+      if: env.SKIP == 'false'
+      run: |
+        git add .
+        git commit -m "Clean new-token.json"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
