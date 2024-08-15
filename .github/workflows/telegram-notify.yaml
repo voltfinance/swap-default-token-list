@@ -6,7 +6,7 @@ on:
       # - master
       - feat/telegram-bot
     paths:
-      - './build/voltage-swap-default.tokenlist.json'
+      - '**/voltage-swap-default.tokenlist.json'
 
 jobs:
   notify:
@@ -31,11 +31,20 @@ jobs:
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
     - name: Commit changes
-      if: env.SKIP == 'false'
       run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        
+        # Get the current branch name
+        BRANCH_NAME=${GITHUB_HEAD_REF}
+        
+        git fetch origin $BRANCH_NAME
+        git checkout $BRANCH_NAME
+        
         git add .
         git commit -m "Clean new-token.json"
-        git push
+        
+        git push origin HEAD:$BRANCH_NAME
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
