@@ -5,8 +5,8 @@ on:
     branches:
       # - master
       - feat/telegram-bot
-    paths:
-      - './build/voltage-swap-default.tokenlist.json'
+    # paths:
+    #   - './build/voltage-swap-default.tokenlist.json'
 
 jobs:
   notify:
