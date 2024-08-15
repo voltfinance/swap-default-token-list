@@ -8,11 +8,7 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
-  "keywords": [
-    "fuseswap",
-    "fuse",
-    "default"
-  ],
+  "keywords": ["fuseswap", "fuse", "default"],
   "tokens": [
     {
       "name": "FOO",
@@ -117,14 +113,6 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin V2",
-      "address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
-      "symbol": "DAI V2",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png"
     },
     {
       "name": "Dogelon on Fuse",
