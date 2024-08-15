@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-07-29T10:33:07.796Z",
+  "timestamp": "2024-08-15T12:04:33.472Z",
   "version": {
     "major": 3,
     "minor": 26,
@@ -8,7 +8,11 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmW1FfDUC5ZQU7djqULk8cu7ZBxP9i8PCCN3vfS4fg7uBs",
-  "keywords": ["fuseswap", "fuse", "default"],
+  "keywords": [
+    "fuseswap",
+    "fuse",
+    "default"
+  ],
   "tokens": [
     {
       "name": "FOO",
@@ -322,6 +326,18 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin V2",
+      "address": "0x2502F488D481Df4F5054330C71b95d93D41625C2",
+      "symbol": "DAI V2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png",
+      "contributors": "@mul53 @darkpaladi",
+      "errors": [
+        "Name is duplicate",
+        "Symbol is duplicate"
+      ]
     }
   ]
 }
