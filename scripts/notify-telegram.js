@@ -12,6 +12,10 @@ if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
 }
 
 async function sendMessage(chatId) {
+  if (newToken?.name.length == 0) {
+    return
+  }
+
   const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`
 
   const text = `
