@@ -23,7 +23,7 @@ async function analyze() {
   const contributors = await getContributors()
   const currentTokenList = await getCurrentTokenList()
 
-  if (!newToken) {
+  if (newToken?.name.length == 0) {
     return
   }
 
