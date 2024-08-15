@@ -40,6 +40,7 @@ ${newToken.bullishSentence}
     console.log(text)
     const response = await axios.post(url, {
       chat_id: chatId,
+      photo: newToken.projectImage,
       text: text,
       parse_mode: 'Markdown',
     })
