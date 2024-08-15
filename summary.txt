@@ -1,0 +1,10 @@
+**PR Summary**:
+      * Token address: 0x2502F488D481Df4F5054330C71b95d93D41625C2
+      * Name: **Dai Stablecoin V2**
+      * Symbol: **DAI V2**
+      * Decimals: **18**
+      *Token check error:
+      *❌Name is duplicate
+      *❌Symbol is duplicate
+      ![Dai Stablecoin V2 logo](https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png)
+      @mul53 @darkpaladi
