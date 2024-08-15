@@ -43,11 +43,11 @@ async function analyze() {
   }
 
   const view = {
-    address: newToken.address,
     name: newToken.name,
+    address: newToken.address,
     symbol: newToken.symbol,
     decimals: newToken.decimals,
-    logoURI: getLogoURI(newToken.address),
+    logoURI: newToken.logoURI,
     contributors: contributors.map((c) => `@${c}`).join(' '),
     errors,
   }
@@ -87,7 +87,7 @@ async function analyze() {
       symbol: newToken.symbol,
       decimals: newToken.decimals,
       chainId: newToken.chainId,
-      logoURI: getLogoURI(newToken.address),
+      logoURI: newToken.logoURI,
     }
 
     // Add the new token to the list
