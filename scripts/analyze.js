@@ -10,10 +10,6 @@ const getContributors = require('./helpers/getContributors')
 const isLiquidityValid = require('./helpers/isLiquidityValid')
 const getCurrentTokenList = require('./helpers/getCurrentTokenList')
 
-// Deprecated
-// const getNewToken = require('./helpers/getNewToken')
-// const getNewTokenList = require('./helpers/getNewTokenList')
-
 const getLogoURI = (tokenAddress) =>
   `https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/${tokenAddress}/logo.png`
 
@@ -91,7 +87,7 @@ async function analyze() {
     }
 
     // Add the new token to the list
-    fuseTokens.push(view)
+    fuseTokens.push(newTokenObject)
 
     // Write the updated list back to the file
     await fs.writeFile(fuseFilePath, JSON.stringify(fuseTokens, null, 2))
