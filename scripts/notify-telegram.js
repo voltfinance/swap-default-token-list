@@ -11,7 +11,7 @@ if (!TELEGRAM_BOT_TOKEN || !TELEGRAM_CHAT_ID) {
   throw new Error('TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID is not set')
 }
 
-async function sendMessage(chatId) {
+async function sendMessage() {
   if (newToken?.name.length == 0) {
     return
   }
@@ -37,17 +37,18 @@ ${newToken.bullishSentence}
 `
 
   try {
-    console.log(text)
     const response = await axios.post(url, {
-      chat_id: chatId,
+      chat_id: TELEGRAM_CHAT_ID,
       photo: newToken.projectImage,
       text: text,
       parse_mode: 'Markdown',
     })
+
     console.log('Message sent:', response.data)
   } catch (error) {
     if (axios.isAxiosError(error)) {
       console.error('Axios error message:', error.message)
+
       if (error.response) {
         console.error('Response data:', error.response.data)
         console.error('Response status:', error.response.status)
@@ -84,4 +85,4 @@ ${newToken.bullishSentence}
   }
 }
 
-sendMessage(TELEGRAM_CHAT_ID)
+sendMessage()
