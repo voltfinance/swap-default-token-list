@@ -55,6 +55,12 @@ For a new token to be accepted, a trading pair with `10,000 WFUSE` as the initia
 
 - Ensure that the pair is live and that liquidity provision is enabled.
 
+
+## Step 4: Timeline
+- Trading Availability: Users will be able to trade the token as soon as the pool is created. However, it will not appear on the token list until the pull request (PR) is merged.
+- Notification: When the token is added, a message will be sent in the Telegram group via a bot, announcing its addition.
+- Social Media: A Voltage social post will be made and should be retweeted by the token team and shared in their respective Telegram communities.
+
 ## Example JSON Submission
 
 ```json
@@ -76,7 +82,7 @@ For a new token to be accepted, a trading pair with `10,000 WFUSE` as the initia
   }
 ```
 
-## Step 4: Submit a Pull Request
+## Step 5: Submit a Pull Request
 
 After you've filled out the `src/new-token.json` file and added the logo:
 
