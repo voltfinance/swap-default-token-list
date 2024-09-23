@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-07-29T10:33:07.796Z",
+  "timestamp": "2024-09-23T13:21:09.609Z",
   "version": {
     "major": 3,
-    "minor": 26,
+    "minor": 27,
     "patch": 0
   },
   "tags": {},
@@ -199,14 +199,6 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
-      "name": "POL Token",
-      "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
-      "symbol": "POL",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
-    },
-    {
       "name": "Maker",
       "address": "0x303CC3f27034C4E3933DaB8E601178eD3d2A1E3c",
       "symbol": "MKR",
@@ -221,6 +213,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2363Df84fDb7D4ee9d4E1A15c763BB6b7177eAEe/logo.png"
+    },
+    {
+      "name": "POL Token",
+      "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
+      "symbol": "POL",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
     },
     {
       "name": "Qiji",
