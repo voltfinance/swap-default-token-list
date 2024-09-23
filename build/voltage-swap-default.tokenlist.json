@@ -199,9 +199,9 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
-      "name": "Matic Token",
+      "name": "POL Token",
       "address": "0x861bF3D382593Ed848972cADFACBA9749AdCE101",
-      "symbol": "MATIC",
+      "symbol": "POL",
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x861bF3D382593Ed848972cADFACBA9749AdCE101/logo.png"
