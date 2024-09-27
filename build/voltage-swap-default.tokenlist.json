@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-09-23T13:21:09.609Z",
+  "timestamp": "2024-09-27T11:06:16.553Z",
   "version": {
     "major": 3,
     "minor": 27,
@@ -135,6 +135,14 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x5DD8015cec49F4dB01fd228F688BF30337d3e0A9/logo.png"
     },
     {
+      "name": "Renzo Restaked ETH",
+      "address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
+      "symbol": "ezETH",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xbf5495efe5db9ce00f80364c8b423567e58d2110/logo.png"
+    },
+    {
       "name": "Freedom",
       "address": "0xE3Df2C1f1ca54707AB49747eeBc7658bb1c8Bf1C",
       "symbol": "FDM",
@@ -245,6 +253,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x3c5DD992D72D082B44c7505015E09fdb1e975eC2/logo.png"
+    },
+    {
+      "name": "Affine ultraETHs 2.0",
+      "address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
+      "symbol": "ultraETHs",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xF0a949B935e367A94cDFe0F2A54892C2BC7b2131/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
