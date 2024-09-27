@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-09-27T11:12:33.458Z",
+  "timestamp": "2024-09-27T14:16:31.565Z",
   "version": {
     "major": 3,
     "minor": 28,
@@ -140,7 +140,7 @@
       "symbol": "ezETH",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xbf5495efe5db9ce00f80364c8b423567e58d2110/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E/logo.png"
     },
     {
       "name": "Freedom",
@@ -260,7 +260,7 @@
       "symbol": "ultraETHs",
       "decimals": 18,
       "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xF0a949B935e367A94cDFe0F2A54892C2BC7b2131/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xb10eD6E3810c95a380E4f3e448af1755fa3368cf/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
