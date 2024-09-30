@@ -319,5 +319,21 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x440B63C0e7b21a57A3784D8AB8E819B9dA383FDf/logo.png"
+  },
+  {
+    "name": "Renzo Restaked ETH",
+    "address": "0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x8bf40E191Ac82BC09D946629655A6B8Baf8f063E/logo.png"
+  },
+  {
+    "name": "Affine ultraETHs 2.0",
+    "address": "0xb10eD6E3810c95a380E4f3e448af1755fa3368cf",
+    "symbol": "ultraETHs",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xb10eD6E3810c95a380E4f3e448af1755fa3368cf/logo.png"
   }
 ]
