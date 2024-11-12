@@ -335,5 +335,13 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xb10eD6E3810c95a380E4f3e448af1755fa3368cf/logo.png"
+  },
+  {
+    "name": "Wrapped Lido Staked Ether",
+    "address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x3c5DD992D72D082B44c7505015E09fdb1e975eC2/logo.png"
   }
 ]
