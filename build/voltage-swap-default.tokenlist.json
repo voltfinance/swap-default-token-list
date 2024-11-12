@@ -1,9 +1,9 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-10-01T09:23:18.056Z",
+  "timestamp": "2024-11-12T12:12:10.697Z",
   "version": {
     "major": 3,
-    "minor": 29,
+    "minor": 30,
     "patch": 0
   },
   "tags": {},
@@ -350,6 +350,14 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629/logo.png"
+    },
+    {
+      "name": "Wrapped Lido Staked Ether",
+      "address": "0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34/logo.png"
     }
   ]
 }
