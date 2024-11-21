@@ -48,14 +48,6 @@
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png"
   },
   {
-    "name": "Wrapped BTC V2",
-    "address": "0xB5D77DB2cd614e0Da80D07E47fEB9Cf118bc6979",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xB5D77DB2cd614e0Da80D07E47fEB9Cf118bc6979/logo.png"
-  },
-  {
     "name": "Wrapped Ether on Fuse",
     "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
     "symbol": "WETH",
