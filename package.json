@@ -1,6 +1,6 @@
 {
   "name": "@voltage-finance/swap-default-token-list",
-  "version": "3.32.0",
+  "version": "3.33.0",
   "description": "◦ The voltage.finance default token list",
   "main": "build/voltage-swap-default.tokenlist.json",
   "scripts": {
