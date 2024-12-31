@@ -343,5 +343,29 @@
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2931B47c2cEE4fEBAd348ba3d322cb4A17662C34/logo.png"
+  },
+  {
+    "name": "Tether USD Stargate",
+    "address": "0x3695Dd1D1D43B794C0B13eb8be8419Eb3ac22bf7",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x3695Dd1D1D43B794C0B13eb8be8419Eb3ac22bf7/logo.png"
+  },
+  {
+    "name": "USD Coin on Fuse (Stargate)",
+    "address": "0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xc6Bc407706B7140EE8Eef2f86F9504651b63e7f9/logo.png"
+  },
+  {
+    "name": "Wrapped Ether on Fuse (Stargate)",
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png"
   }
 ]
