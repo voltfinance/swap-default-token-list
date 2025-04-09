@@ -1,6 +1,6 @@
 {
   "name": "Voltage Swap List",
-  "timestamp": "2024-12-31T11:07:14.022Z",
+  "timestamp": "2025-04-09T10:47:36.409Z",
   "version": {
     "major": 3,
     "minor": 38,
@@ -333,6 +333,14 @@
       "decimals": 8,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x33284f95ccb7B948d9D352e1439561CF83d8d00d/logo.png"
+    },
+    {
+      "name": "Wrapped Bitcoin V2",
+      "address": "0x34009565bfEeFded0F7e774629a745636Bf35E82",
+      "symbol": "WBTC V2",
+      "decimals": 8,
+      "chainId": 122,
+      "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x34009565bfEeFded0F7e774629a745636Bf35E82/logo.png"
     },
     {
       "name": "Wrapped Ether on Fuse",
