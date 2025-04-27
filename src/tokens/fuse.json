@@ -34,7 +34,7 @@
   {
     "name": "USD Coin on Fuse",
     "address": "0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5",
-    "symbol": "USDC",
+    "symbol": "USDC (Deprecated)",
     "decimals": 6,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5/logo.png"
@@ -58,7 +58,7 @@
   {
     "name": "Wrapped Ether on Fuse",
     "address": "0xa722c13135930332Eb3d749B2F0906559D2C5b99",
-    "symbol": "WETH",
+    "symbol": "WETH (Deprecated)",
     "decimals": 18,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
@@ -75,7 +75,7 @@
   {
     "name": "Tether USD on Fuse",
     "address": "0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10",
-    "symbol": "USDT",
+    "symbol": "USDT (Deprecated)",
     "decimals": 6,
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/logo.png"
