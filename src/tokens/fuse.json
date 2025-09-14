@@ -384,5 +384,103 @@
     "chainId": 122,
     "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x75333830E7014e909535389a6E5b0C02aA62ca27/logo.png"
 
+  },
+  {
+    "name": "Obsidian",
+    "address": "0xFD83882F0dAE80B6F431dDc48E6fcA451402E6f1",
+    "symbol": "OBS",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xFD83882F0dAE80B6F431dDc48E6fcA451402E6f1/logo.png"
+
+  },
+  {
+    "name": "Durasteel",
+    "address": "0x8EAcc7B0783A21E7Baf0Ac8F6c808A719f49103B",
+    "symbol": "DRS",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x8EAcc7B0783A21E7Baf0Ac8F6c808A719f49103B/logo.png"
+
+  },
+  {
+    "name": "Nano Circuits",
+    "address": "0xeE29Dc795EB558b65201a98ccb9Bec3e044C6677",
+    "symbol": "NCC",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xeE29Dc795EB558b65201a98ccb9Bec3e044C6677/logo.png"
+  },
+  {
+    "name": "Biogel",
+    "address": "0xA09c8FdAA4351CafcE4632d824471115e741cF20",
+    "symbol": "BIOG",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xA09c8FdAA4351CafcE4632d824471115e741cF20/logo.png"
+  },
+  {
+    "name": "Adamantium",
+    "address": "0xAC5752BbA8956cA4946d9485018AA07EAf5B696D",
+    "symbol": "ADMT",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xAC5752BbA8956cA4946d9485018AA07EAf5B696D/logo.png"
+  },
+  {
+    "name": "Aetherstone",
+    "address": "0xD8B8E87A7FD8133A4a61c40ab0A525fab29401C8",
+    "symbol": "ATHS",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xD8B8E87A7FD8133A4a61c40ab0A525fab29401C8/logo.png"
+  },
+  {
+    "name": "Biosynthetic Resin",
+    "address": "0x821385326D2E38f5CCFb3f4dD60710Bf70a8Ff64",
+    "symbol": "BSTR",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x821385326D2E38f5CCFb3f4dD60710Bf70a8Ff64/logo.png"
+  },
+  {
+    "name": "Ceramite",
+    "address": "0xff719191F357Cf91677Aa02e6DFA8809cd3816cd",
+    "symbol": "CRM",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xff719191F357Cf91677Aa02e6DFA8809cd3816cd/logo.png"
+  },
+  {
+    "name": "Neurofiber Mesh",
+    "address": "0xa803222DAdcfB2Bc501F995FC32d684F5A0f94b2",
+    "symbol": "NRFM",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0xa803222DAdcfB2Bc501F995FC32d684F5A0f94b2/logo.png"
+  },
+  {
+    "name": "Plasmic Fluid",
+    "address": "0x32F3f00302Cf26C4b91A07c690B91Cc534891BFB",
+    "symbol": "PMF",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x32F3f00302Cf26C4b91A07c690B91Cc534891BFB/logo.png"
+  },
+  {
+    "name": "Quantum Processor Chip",
+    "address": "0x6960357949684f5B10FE27045b33c853aeaf8b6C",
+    "symbol": "QTPC",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x6960357949684f5B10FE27045b33c853aeaf8b6C/logo.png"
+  },
+  {
+    "name": "Voidsteel Alloy",
+    "address": "0x950154CB65E6E3dA26462bA391FFf1f7658Bd42B",
+    "symbol": "VSA",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/logos/0x950154CB65E6E3dA26462bA391FFf1f7658Bd42B/logo.png"
   }
 ]
